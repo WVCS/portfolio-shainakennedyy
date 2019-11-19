@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Bungee);
+
+@import url(https://fonts.googleapis.com/css?family=Passion+One);
+
+body{
+  background-color:#000000;
+}
+p{color: #D32C37;
+text-align: center;
+Font-size: 350%;
+font-family: 'Bungee';
+}
+  body
+    {
+    width: 100%;
+    height: 100%;
+    background-image:url(https://www.transparenttextures.com/patterns/cartographer.png);
+    background-size: cover;
+    background-attachment:fixed;
+    margin: 0;
+    padding: 0;
+    }
+h1{ color:#ED8536;
+  Font-size: 300%;
+    font-family: 'Bungee';
+}
+h2{ color:#8F3985;
+  Font-size: 200%; 
+}
+h2{color:#8F3985;
+  Font-size: 200%;
+  font-family: 'Passion One';
+}
+a{color:#8F3985;
+  Font-size: 200%;
+  font-family: 'Passion One'; 
+}
+h3{color:#669BBC;
+  Font-size: 200%;
+  font-family: 'Passion One'
+}
+h4{color:#669BBC;
+  Font-size: 100%;
+  font-family: 'Passion One'
+  
+}
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+img{
+  float: right;
+   width: 16%;
+  margin: 3px 0 0 20px;
+  padding: 20px;
+}
